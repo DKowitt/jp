@@ -1,0 +1,37 @@
+{
+  "transaction": {
+    "id": "R3pyBq3skQsTgNM3RbECwR4ts97YY",
+    "location_id": "AREHNRK4V11BZ",
+    "created_at": "2020-04-20T14:51:07Z",
+    "tenders": [
+      {
+        "id": "REYzzIevhCiHac4aLYaC20fKWteZY",
+        "location_id": "AREHNRK4V11BZ",
+        "transaction_id": "R3pyBq3skQsTgNM3RbECwR4ts97YY",
+        "created_at": "2020-04-20T14:51:06Z",
+        "amount_money": {
+          "amount": 8607,
+          "currency": "USD"
+        },
+        "processing_fee_money": {
+          "amount": 280,
+          "currency": "USD"
+        },
+        "customer_id": "280RXBDY2X4HQ05Z9DPQ2ANTRG",
+        "type": "CARD",
+        "card_details": {
+          "status": "CAPTURED",
+          "card": {
+            "card_brand": "VISA",
+            "last_4": "7383",
+            "fingerprint": "sq-1-nPWODriydOwYIXVQRh9pyV0CwE2UqatrjNOdkO5QeSa1rYyb8xrNUf82xRWrADy9tw"
+          },
+          "entry_method": "KEYED"
+        }
+      }
+    ],
+    "reference_id": "5e9db4a522732f003450a7f1",
+    "product": "EXTERNAL_API",
+    "order_id": "R3pyBq3skQsTgNM3RbECwR4ts97YY"
+  }
+}
