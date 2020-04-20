@@ -1,0 +1,356 @@
+{
+  "orders": [
+    {
+      "id": "R3pyBq3skQsTgNM3RbECwR4ts97YY",
+      "location_id": "AREHNRK4V11BZ",
+      "line_items": [
+        {
+          "uid": "HOmmiUiHfa95QUuhwn9mJC",
+          "catalog_object_id": "SBOKCZJKO3QARGCDMUBJZPAY",
+          "quantity": "1",
+          "name": "Organic Cauliflower (1 Head)",
+          "variation_name": "Regular",
+          "base_price_money": {
+            "amount": 799,
+            "currency": "USD"
+          },
+          "gross_sales_money": {
+            "amount": 799,
+            "currency": "USD"
+          },
+          "total_tax_money": {
+            "amount": 0,
+            "currency": "USD"
+          },
+          "total_discount_money": {
+            "amount": 0,
+            "currency": "USD"
+          },
+          "total_money": {
+            "amount": 799,
+            "currency": "USD"
+          },
+          "variation_total_price_money": {
+            "amount": 799,
+            "currency": "USD"
+          }
+        },
+        {
+          "uid": "wgps3kDRPOSLz38zqHwhcB",
+          "catalog_object_id": "BF2UKNBSECN3OT3FK2Y63PXG",
+          "quantity": "2",
+          "name": "Organic Grapefruit (3)",
+          "variation_name": "Regular",
+          "base_price_money": {
+            "amount": 699,
+            "currency": "USD"
+          },
+          "gross_sales_money": {
+            "amount": 1398,
+            "currency": "USD"
+          },
+          "total_tax_money": {
+            "amount": 0,
+            "currency": "USD"
+          },
+          "total_discount_money": {
+            "amount": 0,
+            "currency": "USD"
+          },
+          "total_money": {
+            "amount": 1398,
+            "currency": "USD"
+          },
+          "variation_total_price_money": {
+            "amount": 1398,
+            "currency": "USD"
+          }
+        },
+        {
+          "uid": "OKqnpBLY3vv3Wt0EnCMCzB",
+          "catalog_object_id": "DYH5DJPVWHBWYMKSWEODBVHK",
+          "quantity": "1",
+          "name": "Organic Grape Tomatoes (12oz)",
+          "variation_name": "Regular",
+          "base_price_money": {
+            "amount": 449,
+            "currency": "USD"
+          },
+          "gross_sales_money": {
+            "amount": 449,
+            "currency": "USD"
+          },
+          "total_tax_money": {
+            "amount": 0,
+            "currency": "USD"
+          },
+          "total_discount_money": {
+            "amount": 0,
+            "currency": "USD"
+          },
+          "total_money": {
+            "amount": 449,
+            "currency": "USD"
+          },
+          "variation_total_price_money": {
+            "amount": 449,
+            "currency": "USD"
+          }
+        },
+        {
+          "uid": "RvPFAhFXWtCA3AqcXzkLHC",
+          "catalog_object_id": "6MLK2ABHMMWQER5P34WNXP7Q",
+          "quantity": "1",
+          "name": "Organic Celery (1 stalk)",
+          "variation_name": "Regular",
+          "base_price_money": {
+            "amount": 299,
+            "currency": "USD"
+          },
+          "gross_sales_money": {
+            "amount": 299,
+            "currency": "USD"
+          },
+          "total_tax_money": {
+            "amount": 0,
+            "currency": "USD"
+          },
+          "total_discount_money": {
+            "amount": 0,
+            "currency": "USD"
+          },
+          "total_money": {
+            "amount": 299,
+            "currency": "USD"
+          },
+          "variation_total_price_money": {
+            "amount": 299,
+            "currency": "USD"
+          }
+        },
+        {
+          "uid": "WOydWyydoL8WjnJ8EeyAJC",
+          "catalog_object_id": "U2QH7FQTVZIDY5BX3MIYIUSH",
+          "quantity": "1",
+          "name": "Homemade Berry Jam (16 oz)",
+          "variation_name": "Regular",
+          "base_price_money": {
+            "amount": 1200,
+            "currency": "USD"
+          },
+          "gross_sales_money": {
+            "amount": 1200,
+            "currency": "USD"
+          },
+          "total_tax_money": {
+            "amount": 0,
+            "currency": "USD"
+          },
+          "total_discount_money": {
+            "amount": 0,
+            "currency": "USD"
+          },
+          "total_money": {
+            "amount": 1200,
+            "currency": "USD"
+          },
+          "variation_total_price_money": {
+            "amount": 1200,
+            "currency": "USD"
+          }
+        },
+        {
+          "uid": "1KyV0qbfKkvKOw3B30sD4B",
+          "catalog_object_id": "4MOUHUXUBV6OZKUH45DQW7ST",
+          "quantity": "1",
+          "name": "GREENS GREENS GREENS Bundle",
+          "variation_name": "Regular",
+          "base_price_money": {
+            "amount": 3499,
+            "currency": "USD"
+          },
+          "gross_sales_money": {
+            "amount": 3499,
+            "currency": "USD"
+          },
+          "total_tax_money": {
+            "amount": 311,
+            "currency": "USD"
+          },
+          "total_discount_money": {
+            "amount": 0,
+            "currency": "USD"
+          },
+          "total_money": {
+            "amount": 3810,
+            "currency": "USD"
+          },
+          "variation_total_price_money": {
+            "amount": 3499,
+            "currency": "USD"
+          },
+          "applied_taxes": [
+            {
+              "uid": "g3kfKIMmJlWBw7dBZjBYdC",
+              "tax_uid": "5e9db4a522732f003450a7f1",
+              "applied_money": {
+                "amount": 311,
+                "currency": "USD"
+              }
+            }
+          ]
+        }
+      ],
+      "taxes": [
+        {
+          "uid": "5e9db4a522732f003450a7f1",
+          "name": "Default 8.88% tax",
+          "percentage": "8.88",
+          "type": "ADDITIVE",
+          "applied_money": {
+            "amount": 311,
+            "currency": "USD"
+          },
+          "scope": "LINE_ITEM"
+        },
+        {
+          "uid": "b2877627047f263e943ceae52423e6e9",
+          "name": "Delivery fee tax",
+          "percentage": "8.88",
+          "type": "ADDITIVE",
+          "applied_money": {
+            "amount": 53,
+            "currency": "USD"
+          },
+          "scope": "LINE_ITEM"
+        }
+      ],
+      "fulfillments": [
+        {
+          "uid": "Br3uPDqK0r6vjXtmID0rWB",
+          "type": "PICKUP",
+          "state": "PROPOSED",
+          "pickup_details": {
+            "pickup_at": "2020-04-20T15:17:07.455Z",
+            "note": "Source: GoParrot (5e9db4a522732f003450a7f1) | Phone: +13478524151 | DELIVERY: 41-21 28th St, Long Island City, NY 11101, USA apt 6E | ryan.qiu1224@gmail.com",
+            "placed_at": "2020-04-20T14:51:07.571Z",
+            "schedule_type": "ASAP",
+            "recipient": {
+              "display_name": "Yu Qiu",
+              "email_address": "ryan.qiu1224@gmail.com",
+              "phone_number": "+13478524151"
+            },
+            "prep_time_duration": "PT8M"
+          }
+        }
+      ],
+      "created_at": "2020-04-20T14:50:23.492Z",
+      "updated_at": "2020-04-20T14:51:07.571Z",
+      "state": "OPEN",
+      "version": 4,
+      "reference_id": "5e9db4a522732f003450a7f1",
+      "total_tax_money": {
+        "amount": 364,
+        "currency": "USD"
+      },
+      "total_discount_money": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "total_tip_money": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "total_money": {
+        "amount": 8607,
+        "currency": "USD"
+      },
+      "tenders": [
+        {
+          "id": "REYzzIevhCiHac4aLYaC20fKWteZY",
+          "location_id": "AREHNRK4V11BZ",
+          "transaction_id": "R3pyBq3skQsTgNM3RbECwR4ts97YY",
+          "created_at": "2020-04-20T14:51:06Z",
+          "amount_money": {
+            "amount": 8607,
+            "currency": "USD"
+          },
+          "type": "CARD",
+          "card_details": {
+            "status": "CAPTURED",
+            "card": {
+              "card_brand": "VISA",
+              "last_4": "7383",
+              "fingerprint": "sq-1-nPWODriydOwYIXVQRh9pyV0CwE2UqatrjNOdkO5QeSa1rYyb8xrNUf82xRWrADy9tw"
+            },
+            "entry_method": "KEYED"
+          },
+          "payment_id": "REYzzIevhCiHac4aLYaC20fKWteZY"
+        }
+      ],
+      "service_charges": [
+        {
+          "uid": "mcJ371bFL9hXKsuHOlLljD",
+          "name": "Delivery fee",
+          "amount_money": {
+            "amount": 599,
+            "currency": "USD"
+          },
+          "applied_money": {
+            "amount": 599,
+            "currency": "USD"
+          },
+          "calculation_phase": "SUBTOTAL_PHASE",
+          "taxable": true,
+          "total_money": {
+            "amount": 652,
+            "currency": "USD"
+          },
+          "total_tax_money": {
+            "amount": 53,
+            "currency": "USD"
+          },
+          "applied_taxes": [
+            {
+              "uid": "XdwGyM7Smc7PsUAM4IVJqD",
+              "tax_uid": "b2877627047f263e943ceae52423e6e9",
+              "applied_money": {
+                "amount": 53,
+                "currency": "USD"
+              }
+            }
+          ]
+        }
+      ],
+      "total_service_charge_money": {
+        "amount": 599,
+        "currency": "USD"
+      },
+      "net_amounts": {
+        "total_money": {
+          "amount": 8607,
+          "currency": "USD"
+        },
+        "tax_money": {
+          "amount": 364,
+          "currency": "USD"
+        },
+        "discount_money": {
+          "amount": 0,
+          "currency": "USD"
+        },
+        "tip_money": {
+          "amount": 0,
+          "currency": "USD"
+        },
+        "service_charge_money": {
+          "amount": 599,
+          "currency": "USD"
+        }
+      },
+      "source": {
+        "name": "DELIVERY |  "
+      }
+    }
+  ]
+}
