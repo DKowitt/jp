@@ -1,0 +1,41 @@
+
+  "transaction": {
+    "id": "fgoB1spP699X0Ky2L6KsVtKi3PUZY",
+    "location_id": "AREHNRK4V11BZ",
+    "created_at": "2020-04-20T14:49:09Z",
+    "tenders": [
+      {
+        "id": "VMdofJS7J96iTsdSYtRm9msHlBJZY",
+        "location_id": "AREHNRK4V11BZ",
+        "transaction_id": "fgoB1spP699X0Ky2L6KsVtKi3PUZY",
+        "created_at": "2020-04-20T14:49:08Z",
+        "amount_money": {
+          "amount": 13439,
+          "currency": "USD"
+        },
+        "tip_money": {
+          "amount": 1653,
+          "currency": "USD"
+        },
+        "processing_fee_money": {
+          "amount": 420,
+          "currency": "USD"
+        },
+        "customer_id": "W063GXQ34H7V3A585QF2X59450",
+        "type": "CARD",
+        "card_details": {
+          "status": "CAPTURED",
+          "card": {
+            "card_brand": "MASTERCARD",
+            "last_4": "4806",
+            "fingerprint": "sq-1-mHp1GvGu9n5Bn5l-UyStd2JTvXAGNr-8RNTFgrydjVPYjzGTKO9P7tsKxCNeDRn_gA"
+          },
+          "entry_method": "ON_FILE"
+        }
+      }
+    ],
+    "reference_id": "5e97adadd0e50000344551af",
+    "product": "EXTERNAL_API",
+    "order_id": "fgoB1spP699X0Ky2L6KsVtKi3PUZY"
+  }
+}
